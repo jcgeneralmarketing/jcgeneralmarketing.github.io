@@ -21,7 +21,7 @@ timezone:
 
 title: JC General Marketing                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: All things marketing   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -30,10 +30,10 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://jcgeneralmarketing.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: jcgeneralmarketing             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: jcsalinas3815            # change to your twitter username
 
 social:
   # Change to your full name.
