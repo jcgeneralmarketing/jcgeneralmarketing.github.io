@@ -13,8 +13,7 @@
 -
   type: snapchat
   icon: 'fab fa-snapchat-ghost
-  url: https://www.snapchat.com/add/jc_3511/
-
+  url: https://www.snapchat.com/add/jc_3511
 -
   type: email
   icon: 'fas fa-envelope'
